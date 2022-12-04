@@ -1,7 +1,6 @@
 # PS-Profile
-PS Profile with starship prompt & terminal icom
-
-![image](https://user-images.githubusercontent.com/90580037/205481102-c3b76b5d-56a5-4c1c-95f3-9f9f16409735.png)
+PS Profile with starship prompt & terminal icons:
+![image](https://user-images.githubusercontent.com/90580037/205481207-c775caad-dfa4-427f-89b7-7522a0a25c01.png)
 
 Donwload respotary zip file
 extract
