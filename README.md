@@ -9,3 +9,5 @@ PS Profile with starship prompt & terminal icons:
 - cd to same restotary fodler then .\install.ps1
 - may be need to change your execution policy 
   https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
+
+- $PROFILE & $PROFILE.AllUsersAllHosts will renamed with date and time in same folder as backup.
