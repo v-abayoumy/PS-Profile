@@ -1,5 +1,5 @@
 winget install starship --force
-winget install SourceFoundry.HackFonts -force
+winget install SourceFoundry.HackFonts --force
 if (-not (Get-Module -Name "Terminal-Icons")) {Install-Module Terminal-Icons -force }
 Move-Item $PROFILE "$($PROFILE)-$((Get-Date).ToString('ddMMyyyy-HHmm')).bk"
 Move-Item $PROFILE.AllUsersAllHosts "$($PROFILE.AllUsersAllHosts)-$((Get-Date).ToString('ddMMyyyy-HHmm')).bk"
