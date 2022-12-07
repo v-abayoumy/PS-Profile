@@ -9,6 +9,5 @@ PS Profile with starship prompt & terminal icons:
 - cd to same restotary fodler then .\install.ps1
 - may be need to change your execution policy to run scripts.
   https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
-- set hack font as terminal font 
-
+- set installed nerd font as terminal font.
 - $PROFILE & $PROFILE.AllUsersAllHosts will renamed with date and time in same folder as backup.
